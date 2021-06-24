@@ -36,6 +36,7 @@ WARNING:
   IF YOU WANT TO CLOSE THIS PLAYER PLEASE CLOSE IT BY USING 'QUIT' BUTTON OR 
 BY USING YOUR VOICE , DO NOT QUIT IT BY USING YOUR WINDOWS CLOSING BUTTON
 
+if there is any bug conduct me at any time : k.prasannagh@gmail.com
 
                       HAVE FUN,STAY SAFE,STAY TUNED
                                THANK YOU     
